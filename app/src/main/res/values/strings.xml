@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mini navigátor</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_memorable_place">Map</string>
+    <string name="title_activity_nearbly_places">Map</string>
+    <string name="browser_key">AIzaSyBL9Vb7-0-KmHqlBnpyABNK2OPPmJQ6H6k</string>
+    <string name="title_activity_find_route">Map</string>
+    <string name="title_activity_my_location">Map</string>
+</resources>

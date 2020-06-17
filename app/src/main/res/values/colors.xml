@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#089ef5</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#400318</color>
+    <color name="white">#ffffff</color>
+    <color name="azure">#07ffac</color>
+
+</resources>
